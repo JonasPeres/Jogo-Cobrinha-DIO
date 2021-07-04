@@ -1,0 +1,1 @@
+Esse é o projeto final do Bootcamp HTML Web Developer pela (DIO), é uma recriação do clássico jogo da cobrinha!
